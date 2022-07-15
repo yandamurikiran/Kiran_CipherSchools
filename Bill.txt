@@ -1,0 +1,12 @@
+			 Bus Login System
+
+
+					 Date:Wed Jun 05 13:19:49 IST 2019
+
+			 Name: user
+			 EmailId: user123
+			 Contact: 9876543210
+			 No. of tickets: 2
+			 Source: Pune
+			 Destination: New Delhi
+			 Amount: 1800.0
